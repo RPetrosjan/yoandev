@@ -16,6 +16,8 @@
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 
+.env
+
 ###> phpunit/phpunit ###
 /phpunit.xml
 .phpunit.result.cache
